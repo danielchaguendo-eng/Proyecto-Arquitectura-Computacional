@@ -1,3 +1,3 @@
 # Proyecto-Arquitectura-Computacional
 
-\## 📐 Diagrama General del Proyecto ![Diagrama General del Sistema](docs/diagrams/diagrama\_general.png)
+\## 📐 Diagrama General del Proyecto ![Diagrama General del Sistema](docs/diagrams/diagrama\_general.draw.io.png)
